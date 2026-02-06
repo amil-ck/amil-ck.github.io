@@ -9,6 +9,13 @@
     <lastBuildDate>Fri, 06 Feb 2026 00:00:00 +0000</lastBuildDate>
     <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>All my best art stuff</title>
+      <link>//localhost:1313/posts/art/</link>
+      <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/posts/art/</guid>
+      <description>&lt;p&gt;&#xA;&lt;img src=&#34;//localhost:1313/swordsaint%20white.png&#34; alt=&#34;swordsaint~&#34;   style=&#34;width: 100%; max-width: 200px;&#34;/&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xA;&lt;img src=&#34;//localhost:1313/swordsaint%20black.png&#34; alt=&#34;swordsaint~&#34;   style=&#34;width: 100%; max-width: 200px;&#34;/&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>get it? like house md ?!</title>
       <link>//localhost:1313/posts/house/</link>
       <pubDate>Fri, 06 Feb 2026 00:00:00 +0000</pubDate>
